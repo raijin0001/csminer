@@ -1,7 +1,7 @@
 package stats
 
 import (
-	"github.com/cryptonote-social/csminer/stratum/client"
+	"github.com/raijin0001/csminer/stratum/client"
 
 	"encoding/json"
 	"io/ioutil"

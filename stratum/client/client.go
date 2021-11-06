@@ -11,11 +11,12 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/cryptonote-social/csminer/crylog"
 	"io"
 	"net"
 	"sync"
 	"time"
+
+	"github.com/raijin0001/csminer/crylog"
 )
 
 const (

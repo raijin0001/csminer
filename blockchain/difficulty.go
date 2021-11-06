@@ -7,9 +7,10 @@ package blockchain
 
 import (
 	"encoding/hex"
-	"github.com/cryptonote-social/csminer/crylog"
 	"math"
 	"math/big"
+
+	"github.com/raijin0001/csminer/crylog"
 )
 
 var (

@@ -6,9 +6,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/cryptonote-social/csminer"
-	"github.com/cryptonote-social/csminer/crylog"
+
 	"github.com/godbus/dbus"
+	"github.com/raijin0001/csminer"
+	"github.com/raijin0001/csminer/crylog"
 )
 
 func main() {

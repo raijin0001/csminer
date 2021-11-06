@@ -1,7 +1,7 @@
 github.com/brunoqc/go-windows-session-notifications v0.0.0-20170424175830-fec440a22328 h1:Nf03efSjxTO1zrg8P2WR3UVXfSNzHXl5F1h7Im4nqtI=
 github.com/brunoqc/go-windows-session-notifications v0.0.0-20170424175830-fec440a22328/go.mod h1:WGETPIXmRb9fIUDuJdMnbNfT41loNcP20LZ65ymtk5Q=
-github.com/cryptonote-social/csminer v0.3.3-all h1:m9eHLTQP4N/zD2qSrrktd+QAXTJDZwgMerpvDRbqujk=
-github.com/cryptonote-social/csminer v0.3.3-all/go.mod h1:hTSc3fwuINmLHY1KjDCCGa0oONg6i/vH3gW8Au3k+14=
+github.com/raijin0001/csminer v0.3.3-all h1:m9eHLTQP4N/zD2qSrrktd+QAXTJDZwgMerpvDRbqujk=
+github.com/raijin0001/csminer v0.3.3-all/go.mod h1:hTSc3fwuINmLHY1KjDCCGa0oONg6i/vH3gW8Au3k+14=
 github.com/godbus/dbus v4.1.0+incompatible h1:WqqLRTsQic3apZUK9qC5sGNfXthmPXzUZ7nQPrNITa4=
 github.com/godbus/dbus v4.1.0+incompatible/go.mod h1:/YcGZj5zSblfDWMMoOzV4fas9FZnQYTkDnsGvmh2Grw=
 golang.org/x/sys v0.0.0-20211106132015-ebca88c72f68 h1:Ywe/f3fNleF8I6F6qv3MeFoSZ6CTf2zBMMa/7qVML8M=

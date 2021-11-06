@@ -11,10 +11,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/cryptonote-social/csminer/crylog"
-	"github.com/cryptonote-social/csminer/minerlib"
-	"github.com/cryptonote-social/csminer/minerlib/chat"
-	"github.com/cryptonote-social/csminer/stratum/client"
+	"github.com/raijin0001/csminer/crylog"
+	"github.com/raijin0001/csminer/minerlib"
+	"github.com/raijin0001/csminer/minerlib/chat"
+	"github.com/raijin0001/csminer/stratum/client"
 )
 
 var (

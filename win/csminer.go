@@ -10,8 +10,8 @@ import (
 	"unsafe"
 
 	"github.com/brunoqc/go-windows-session-notifications"
-	"github.com/cryptonote-social/csminer"
-	"github.com/cryptonote-social/csminer/crylog"
+	"github.com/raijin0001/csminer"
+	"github.com/raijin0001/csminer/crylog"
 	"golang.org/x/sys/windows"
 )
 

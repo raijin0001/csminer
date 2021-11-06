@@ -1,8 +1,8 @@
 package chat
 
 import (
-	"github.com/cryptonote-social/csminer/crylog"
-	"github.com/cryptonote-social/csminer/stratum/client"
+	"github.com/raijin0001/csminer/crylog"
+	"github.com/raijin0001/csminer/stratum/client"
 
 	"crypto/rand"
 	"encoding/binary"

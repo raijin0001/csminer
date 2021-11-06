@@ -13,7 +13,7 @@ package rx
 import "C"
 
 import (
-	"github.com/cryptonote-social/csminer/crylog"
+	"github.com/raijin0001/csminer/crylog"
 	//	"encoding/hex"
 	"unsafe"
 )

@@ -1,12 +1,13 @@
-package main
-
+//go:build 386
 // +build 386
+
+package main
 
 import "C"
 
 import (
-	"github.com/cryptonote-social/csminer/minerlib"
-	"github.com/cryptonote-social/csminer/minerlib/chat"
+	"github.com/raijin0001/csminer/minerlib"
+	"github.com/raijin0001/csminer/minerlib/chat"
 )
 
 //export PoolLogin

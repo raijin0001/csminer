@@ -1,12 +1,12 @@
 package minerlib
 
 import (
-	"github.com/cryptonote-social/csminer/blockchain"
-	"github.com/cryptonote-social/csminer/crylog"
-	"github.com/cryptonote-social/csminer/minerlib/chat"
+	"github.com/raijin0001/csminer/blockchain"
+	"github.com/raijin0001/csminer/crylog"
+	"github.com/raijin0001/csminer/minerlib/chat"
 	"github.com/raijin0001/csminer/minerlib/stats"
 	"github.com/raijin0001/csminer/rx"
-	"github.com/cryptonote-social/csminer/stratum/client"
+	"github.com/raijin0001/csminer/stratum/client"
 
 	"bytes"
 	"encoding/hex"

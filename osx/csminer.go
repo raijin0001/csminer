@@ -7,11 +7,12 @@ package main
 
 import (
 	"context"
-	"github.com/cryptonote-social/csminer"
-	"github.com/cryptonote-social/csminer/crylog"
 	"os/exec"
 	"strings"
 	"time"
+
+	"github.com/raijin0001/csminer"
+	"github.com/raijin0001/csminer/crylog"
 )
 
 type OSXMachineStater struct {
